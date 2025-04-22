@@ -18,7 +18,7 @@ const Navbar = () => {
                     <img src='/img/logo.png' alt='Logo' className='w-16 h-16' />
                 </a>
                 <Button
-                it="product-button"
+                id="product-button"
                 title="Product"
                 rightIcon={<TiLocationArrow/>}
                 containerClass="!bg-blue-50 md:flex   hidden  item-center justify-center gap-1 rounded-full"/>
